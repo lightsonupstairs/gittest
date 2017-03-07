@@ -1,8 +1,4 @@
 //one on first branch
-This is a modified from vs
-<<<<<<< HEAD
 hello world
-=======
-Modified on the web
 change to merge
->>>>>>> 9e9ac7609b35b36d705410550c1d31032169b849
+
